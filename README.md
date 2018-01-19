@@ -20,4 +20,7 @@
 ## String
 * [StringFormatter](https://github.com/MikePopoloski/StringFormatter) Zero-allocation string formatting for .NET.
 
+## 
+* [Serialization](https://github.com/google/flatbuffers) Memory Efficient Serialization Library
+
 
