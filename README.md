@@ -1,5 +1,8 @@
 # OpenPrograming
 
+## Util
+* [nuklear](https://github.com/vurtun/nuklear)
+
 ## AI
 * [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
 * [ReGoap](https://github.com/luxkun/ReGoap)
@@ -33,6 +36,14 @@
 
 ## Memory
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
+* [smmalloc](https://github.com/SergeyMakeev/smmalloc)
 
 ## Reflection
 * [rttr](https://github.com/rttrorg/rttr)
+
+## Thread
+* [enkiTS](https://github.com/dougbinks/enkiTS)
+* [TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler)
+
+## Parallel 
+* [thrust](https://github.com/thrust/thrust)
