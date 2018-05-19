@@ -5,6 +5,9 @@
 
 ## Util
 
+## Log
+* [spdlog](https://github.com/gabime/spdlog) Very fast, header only, C++ logging library. 
+
 ## AI
 * [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
 * [ReGoap](https://github.com/luxkun/ReGoap)
