@@ -31,6 +31,7 @@
 ## Serialization
 * [Serialization](https://github.com/google/flatbuffers) Memory Efficient Serialization Library
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
+* [dumpable](https://github.com/ipkn/dumpable)  Serialization without any serialization codes in C++
 
 ## Tween
 * [dotween](https://github.com/Demigiant/dotween)
@@ -51,4 +52,13 @@
 * [TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler)
 
 ## Parallel 
-* [thrust](https://github.com/thrust/thrust)
+* [thrust](https://github.com/thrust/thrust) A parallel algorithms library which resembles the C++ Standard Template Library (STL). 
+
+## DataStruct
+* [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
+
+## Random
+* [pcg](https://github.com/imneme/pcg-cpp) random number generators, which are fast, statistically excellent, and offer a number of useful features.
+
+## Code
+* [uncrustify](https://github.com/uncrustify/uncrustify) Code beautifier http://uncrustify.sourceforge.net/
