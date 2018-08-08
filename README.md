@@ -5,6 +5,9 @@
 
 ## Util
 
+## C++ Extend
+* [abseil-cpp](https://github.com/abseil/abseil-cpp)  augment the C++ standard library.
+
 ## Log
 * [spdlog](https://github.com/gabime/spdlog) Very fast, header only, C++ logging library. 
 
