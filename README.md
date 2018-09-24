@@ -66,3 +66,6 @@
 
 ## Code
 * [uncrustify](https://github.com/uncrustify/uncrustify) Code beautifier http://uncrustify.sourceforge.net/
+
+## Other
+* [sokol](https://github.com/floooh/sokol)
