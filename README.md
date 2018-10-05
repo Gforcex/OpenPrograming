@@ -8,6 +8,9 @@
 ## C++ Extend
 * [abseil-cpp](https://github.com/abseil/abseil-cpp)  augment the C++ standard library.
 
+## SIMD
+* [libsimdpp](https://github.com/p12tic/libsimdpp)  Portable header-only zero-overhead C++ low level SIMD library
+
 ## Log
 * [spdlog](https://github.com/gabime/spdlog) Very fast, header only, C++ logging library. 
 
@@ -35,6 +38,9 @@
 * [Serialization](https://github.com/google/flatbuffers) Memory Efficient Serialization Library
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
 * [dumpable](https://github.com/ipkn/dumpable)  Serialization without any serialization codes in C++
+
+## Timer
+* [Flicks](https://github.com/OculusVR/Flicks) :thumbsup:  A flick (frame-tick) is a very small unit of time. It is 1/705600000 of a second, exactly.
 
 ## Tween
 * [dotween](https://github.com/Demigiant/dotween)
