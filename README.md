@@ -39,6 +39,9 @@
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
 * [dumpable](https://github.com/ipkn/dumpable)  Serialization without any serialization codes in C++
 
+## Compression 
+* [Zstandard](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm 
+
 ## Timer
 * [Flicks](https://github.com/OculusVR/Flicks) :thumbsup:  A flick (frame-tick) is a very small unit of time. It is 1/705600000 of a second, exactly.
 
