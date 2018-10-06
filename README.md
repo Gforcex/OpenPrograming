@@ -3,10 +3,15 @@
 ## Tutorial
 * [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 
+## Awesome
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. http://fffaraz.github.io/awesome-cpp/
+* [single_file_libs](https://github.com/nothings/single_file_libs)  :thumbsup:  List of single-file C/C++ libraries.
+
 ## Util
 
 ## C++ Extend
 * [abseil-cpp](https://github.com/abseil/abseil-cpp)  augment the C++ standard library.
+* [FastDynamicCast](https://github.com/tobspr/FastDynamicCast)  Fast dynamic cast in C++ for MSVC, outperforming the regular dynamic cast by up to 25 times
 
 ## SIMD
 * [libsimdpp](https://github.com/p12tic/libsimdpp)  Portable header-only zero-overhead C++ low level SIMD library
@@ -73,6 +78,10 @@
 
 ## Random
 * [pcg](https://github.com/imneme/pcg-cpp) random number generators, which are fast, statistically excellent, and offer a number of useful features.
+
+## Debugger
+* [x64dbg](https://github.com/x64dbg/x64dbg) An open-source x64/x32 debugger for windows. http://x64dbg.com
+* [dnSpy](https://github.com/0xd4d/dnSpy) .NET debugger and assembly editor  
 
 ## Code
 * [uncrustify](https://github.com/uncrustify/uncrustify) Code beautifier http://uncrustify.sourceforge.net/
