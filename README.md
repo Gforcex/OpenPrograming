@@ -44,8 +44,11 @@
 * [StringFormatter](https://github.com/MikePopoloski/StringFormatter) Zero-allocation string formatting for .NET.
 
 ## Serialization
-* [Serialization](https://github.com/google/flatbuffers) Memory Efficient Serialization Library
-* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
+* [cpp-serializers](https://github.com/thekvs/cpp-serializers)  Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
+* [protobuf](https://github.com/protocolbuffers/protobuf) Google's data interchange format
+* [flatbuffers](https://github.com/google/flatbuffers)  Memory Efficient Serialization Library
+* [cereal](https://github.com/USCiLab/cereal)  A C++11 library for serialization
+* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) astest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
 * [dumpable](https://github.com/ipkn/dumpable)  Serialization without any serialization codes in C++
 
 ## Compression 
