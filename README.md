@@ -42,6 +42,7 @@
 
 ## String
 * [StringFormatter](https://github.com/MikePopoloski/StringFormatter) Zero-allocation string formatting for .NET.
+* [fmt](https://github.com/fmtlib/fmt) A modern formatting library http://fmtlib.net
 
 ## Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers)  Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
