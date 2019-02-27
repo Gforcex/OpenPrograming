@@ -71,6 +71,9 @@
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
 * [smmalloc](https://github.com/SergeyMakeev/smmalloc)
 
+## Garbage Collector
+* [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) https://www.hboehm.info/gc/
+
 ## Reflection
 * [rttr](https://github.com/rttrorg/rttr)
 
