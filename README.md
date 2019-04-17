@@ -53,6 +53,7 @@
 * [dumpable](https://github.com/ipkn/dumpable)  Serialization without any serialization codes in C++
 
 ## Compression 
+* [lz4](https://github.com/lz4/lz4) Extremely Fast Compression algorithm http://www.lz4.org
 * [Zstandard](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm 
 
 ## Timer
