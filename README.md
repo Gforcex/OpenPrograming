@@ -89,6 +89,7 @@
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
 
 ## Algorithms
+* [TheAlgorithms](https://github.com/TheAlgorithms/) All Algorithms implemented in Python/C/C-Plus/Java/C-Sharp/Javascript....
 * [algorithms](https://github.com/keon/algorithms)  Minimal examples of data structures and algorithms in Python
 
 ## Random
