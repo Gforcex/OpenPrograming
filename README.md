@@ -91,6 +91,7 @@
 ## Algorithms
 * [TheAlgorithms](https://github.com/TheAlgorithms/) All Algorithms implemented in Python/C/C-Plus/Java/C-Sharp/Javascript....
 * [algorithms](https://github.com/keon/algorithms)  Minimal examples of data structures and algorithms in Python
+* [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
 
 ## Random
 * [pcg](https://github.com/imneme/pcg-cpp) random number generators, which are fast, statistically excellent, and offer a number of useful features.
