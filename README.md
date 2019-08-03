@@ -2,6 +2,11 @@
 
 ## Tutorial
 * [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+* [Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师
+#### AI
+* [AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
+* [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) Chinese Translation for Machine Learning Infographics
+* [60_Days_RL_Challenge](https://github.com/MLEveryday/60_Days_RL_Challenge) 强化学习60天
 
 ## Awesome
 * [awesome](https://github.com/sindresorhus/awesome) Curated list of awesome lists
