@@ -98,6 +98,9 @@
 * [algorithms](https://github.com/keon/algorithms)  Minimal examples of data structures and algorithms in Python
 * [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
 
+## Encryption
+* [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm http://www.xxhash.com/
+
 ## Random
 * [pcg](https://github.com/imneme/pcg-cpp) random number generators, which are fast, statistically excellent, and offer a number of useful features.
 
