@@ -3,6 +3,7 @@
 ## Tutorial
 * [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师
+* [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. 
 #### AI
 * [AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
 * [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) Chinese Translation for Machine Learning Infographics
