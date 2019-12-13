@@ -21,6 +21,7 @@
 * [FastDynamicCast](https://github.com/tobspr/FastDynamicCast)  Fast dynamic cast in C++ for MSVC, outperforming the regular dynamic cast by up to 25 times
 
 ## Functional Programming
+* [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) Jargon from the functional programming world in simple terms! http://git.io/fp-jargons
 * [fn.py](https://github.com/kachayev/fn.py)  Functional programming in Python: implementation of missing features to enjoy FP
 
 ## SIMD
@@ -74,7 +75,7 @@
 * [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
 * [easy_profiler](https://github.com/yse/easy_profiler)
 * [verysleepy](https://github.com/VerySleepy/verysleepy)
-* [microprofile](https://github.com/jonasmr/microprofile)
+* [microprofile](https://github.com/jonasmr/microprofile) microprofile is an embeddable profiler
 
 ## Memory
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
