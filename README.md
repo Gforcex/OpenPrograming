@@ -65,6 +65,9 @@
 * [lz4](https://github.com/lz4/lz4) Extremely Fast Compression algorithm http://www.lz4.org
 * [Zstandard](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm 
 
+## Encoding
+* [libmorton](https://github.com/Forceflow/libmorton) C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates  
+
 ## Timer
 * [Flicks](https://github.com/OculusVR/Flicks) :thumbsup:  A flick (frame-tick) is a very small unit of time. It is 1/705600000 of a second, exactly.
 
