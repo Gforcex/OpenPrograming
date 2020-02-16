@@ -79,6 +79,10 @@
 * [easy_profiler](https://github.com/yse/easy_profiler)
 * [verysleepy](https://github.com/VerySleepy/verysleepy)
 * [microprofile](https://github.com/jonasmr/microprofile) microprofile is an embeddable profiler
+* [speedscope](https://github.com/jlfwong/speedscope)  A fast, interactive web-based viewer for performance profiles. https://www.speedscope.app
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) Stack trace visualizer 
+
+* [bloaty](https://github.com/google/bloaty) Bloaty McBloatface: a size profiler for binaries
 
 * [MTuner](https://github.com/milostosic/MTuner) MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
 
