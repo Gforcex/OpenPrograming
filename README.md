@@ -105,6 +105,7 @@
 
 ## DataStruct
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
+* [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm https://www.xxhash.com/
 
 ## Algorithms
 * [TheAlgorithms](https://github.com/TheAlgorithms/) All Algorithms implemented in Python/C/C-Plus/Java/C-Sharp/Javascript....
