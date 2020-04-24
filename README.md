@@ -108,9 +108,11 @@
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm https://www.xxhash.com/
 
 ## Algorithms
+* [cosmos](https://github.com/OpenGenus/cosmos) Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum | https://discourse.opengenus.org/
 * [TheAlgorithms](https://github.com/TheAlgorithms/) All Algorithms implemented in Python/C/C-Plus/Java/C-Sharp/Javascript....
 * [algorithms](https://github.com/keon/algorithms)  Minimal examples of data structures and algorithms in Python
 * [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
+* [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 
 ## Encryption
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm http://www.xxhash.com/
