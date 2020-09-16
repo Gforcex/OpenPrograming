@@ -64,6 +64,7 @@
 ## Compression 
 * [lz4](https://github.com/lz4/lz4) Extremely Fast Compression algorithm http://www.lz4.org
 * [Zstandard](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm 
+* [lzham_codec](https://github.com/richgel999/lzham_codec) Lossless data compression codec with LZMA-like ratios but 1.5x-8x faster decompression speed, C/C++
 
 ## Encoding
 * [libmorton](https://github.com/Forceflow/libmorton) C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates  
