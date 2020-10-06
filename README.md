@@ -130,5 +130,8 @@
 ## Code
 * [uncrustify](https://github.com/uncrustify/uncrustify) Code beautifier http://uncrustify.sourceforge.net/
 
+## Hook
+* [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) C++17, x86/x64 Hooking Libary v2.0
+
 ## Other
 * [sokol](https://github.com/floooh/sokol)
