@@ -76,9 +76,9 @@
 * [dotween](https://github.com/Demigiant/dotween)
 
 ## Profiler
-* [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
-* [easy_profiler](https://github.com/yse/easy_profiler)
-* [verysleepy](https://github.com/VerySleepy/verysleepy)
+* [optick](https://github.com/bombomby/optick) C++ Profiler For Games
+* [easy_profiler](https://github.com/yse/easy_profiler) Lightweight profiler library for c++
+* [verysleepy](https://github.com/VerySleepy/verysleepy) Very Sleepy, a polling CPU profiler
 * [microprofile](https://github.com/jonasmr/microprofile) microprofile is an embeddable profiler
 * [speedscope](https://github.com/jlfwong/speedscope)  A fast, interactive web-based viewer for performance profiles. https://www.speedscope.app
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) Stack trace visualizer 
