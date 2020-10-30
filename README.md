@@ -122,6 +122,7 @@
 
 ## Random
 * [pcg](https://github.com/imneme/pcg-cpp) random number generators, which are fast, statistically excellent, and offer a number of useful features.
+* [TinyMT](https://github.com/MersenneTwister-Lab/TinyMT) Tiny Mersenne Twister(TinyMT). Pseudo random number generators whose periods are 2127-1.
 
 ## Debugger
 * [x64dbg](https://github.com/x64dbg/x64dbg) An open-source x64/x32 debugger for windows. http://x64dbg.com
