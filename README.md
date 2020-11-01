@@ -108,6 +108,7 @@
 ## DataStruct
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm https://www.xxhash.com/
+* [Advanced-Algorithms](https://github.com/justcoding121/Advanced-Algorithms) 100+ algorithms & data structures generically implemented in C#.
 
 ## Algorithms
 * [cosmos](https://github.com/OpenGenus/cosmos) Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum | https://discourse.opengenus.org/
