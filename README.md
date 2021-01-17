@@ -108,6 +108,7 @@
 ## DataStruct
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm https://www.xxhash.com/
+* [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
 * [Advanced-Algorithms](https://github.com/justcoding121/Advanced-Algorithms) 100+ algorithms & data structures generically implemented in C#.
 
 ## Algorithms
