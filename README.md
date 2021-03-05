@@ -130,6 +130,9 @@
 * [x64dbg](https://github.com/x64dbg/x64dbg) An open-source x64/x32 debugger for windows. http://x64dbg.com
 * [dnSpy](https://github.com/0xd4d/dnSpy) .NET debugger and assembly editor  
 
+## Disassembler 
+* [zydis](https://github.com/zyantific/zydis) Fast and lightweight x86/x86-64 disassembler library
+
 ## Code
 * [uncrustify](https://github.com/uncrustify/uncrustify) Code beautifier http://uncrustify.sourceforge.net/
 
