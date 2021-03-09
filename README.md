@@ -83,6 +83,7 @@
 * [speedscope](https://github.com/jlfwong/speedscope)  A fast, interactive web-based viewer for performance profiles. https://www.speedscope.app
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) Stack trace visualizer 
 * [tracy](https://github.com/wolfpld/tracy) C++ frame profiler
+* [pyroscope](https://github.com/pyroscope-io/pyroscope) Debug performance issues down to a single line of code
 
 * [bloaty](https://github.com/google/bloaty) Bloaty McBloatface: a size profiler for binaries
 
