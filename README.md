@@ -106,6 +106,9 @@
 ## Parallel 
 * [thrust](https://github.com/thrust/thrust) A parallel algorithms library which resembles the C++ Standard Template Library (STL). 
 
+## RPC
+* [MagicOnion](https://github.com/Cysharp/MagicOnion) Unified Realtime/API framework for .NET platform and Unity.
+
 ## DataStruct
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm https://www.xxhash.com/
