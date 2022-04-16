@@ -60,6 +60,7 @@
 * [cereal](https://github.com/USCiLab/cereal)  A C++11 library for serialization
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) astest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
 * [dumpable](https://github.com/ipkn/dumpable)  Serialization without any serialization codes in C++
+* [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
 
 ## Compression 
 * [lz4](https://github.com/lz4/lz4) Extremely Fast Compression algorithm http://www.lz4.org
