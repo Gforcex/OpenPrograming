@@ -124,6 +124,7 @@
 * [algorithms](https://github.com/keon/algorithms)  Minimal examples of data structures and algorithms in Python
 * [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
 * [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.
 
 ## Encryption
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm http://www.xxhash.com/
