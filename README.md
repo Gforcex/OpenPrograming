@@ -99,11 +99,13 @@
 * [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) https://www.hboehm.info/gc/
 
 ## Reflection
-* [rttr](https://github.com/rttrorg/rttr)
+* [rttr](https://github.com/rttrorg/rttr) C++ Reflection Library
+* [magic_enum](https://github.com/Neargye/magic_enum) Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+* [nameof](https://github.com/Neargye/nameof) Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
 
 ## Thread
-* [enkiTS](https://github.com/dougbinks/enkiTS)
-* [TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler)
+* [enkiTS](https://github.com/dougbinks/enkiTS) A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support.
+* [TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler) Cross-platform, fiber-based, multi-threaded task scheduler designed for video games.
 
 ## Parallel 
 * [thrust](https://github.com/thrust/thrust) A parallel algorithms library which resembles the C++ Standard Template Library (STL). 
