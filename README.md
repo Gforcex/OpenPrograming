@@ -75,7 +75,8 @@
 * [Flicks](https://github.com/OculusVR/Flicks) :thumbsup:  A flick (frame-tick) is a very small unit of time. It is 1/705600000 of a second, exactly.
 
 ## Tween
-* [dotween](https://github.com/Demigiant/dotween)
+* [dotween](https://github.com/Demigiant/dotween) A Unity C# animation engine. HOTween v2
+* [unity-tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
 
 ## Profiler
 * [optick](https://github.com/bombomby/optick) C++ Profiler For Games
