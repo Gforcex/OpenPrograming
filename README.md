@@ -49,6 +49,9 @@
 ## DOD
 * [data-oriented-design](https://github.com/dbartolini/data-oriented-design) A curated list of data oriented design resources.
 
+## ECS
+* [flecs](https://github.com/SanderMertens/flecs) A fast entity component system (ECS) for C & C++ www.flecs.dev     
+
 ## String
 * [StringFormatter](https://github.com/MikePopoloski/StringFormatter) Zero-allocation string formatting for .NET.
 * [fmt](https://github.com/fmtlib/fmt) A modern formatting library http://fmtlib.net
