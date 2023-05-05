@@ -125,6 +125,7 @@
 
 ## Algorithms
 * [cosmos](https://github.com/OpenGenus/cosmos) Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum | https://discourse.opengenus.org/
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)  Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) Interactive Online Platform that Visualizes Algorithms from Code
 * [TheAlgorithms](https://github.com/TheAlgorithms/) All Algorithms implemented in Python/C/C-Plus/Java/C-Sharp/Javascript....
 * [algorithms](https://github.com/keon/algorithms)  Minimal examples of data structures and algorithms in Python
