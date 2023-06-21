@@ -32,8 +32,9 @@
 
 ## AI
 * [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
-* [ReGoap](https://github.com/luxkun/ReGoap)
-* [UnitySteer](https://github.com/ricardojmendez/UnitySteer)
+* [GOAP](https://github.com/crashkonijn/GOAP) A multi-threaded GOAP system for Unity
+* [ReGoap](https://github.com/luxkun/ReGoap) Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples
+* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
 * [RVO2](https://github.com/snape/RVO2-CS) Optimal Reciprocal Collision Avoidance (C#) http://gamma.cs.unc.edu/RVO2/
 * [HRVO](https://github.com/snape/HRVO) The Hybrid Reciprocal Velocity Obstacle (C++) http://gamma.cs.unc.edu/HRVO/
  
