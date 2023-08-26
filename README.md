@@ -113,7 +113,10 @@
 * [TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler) Cross-platform, fiber-based, multi-threaded task scheduler designed for video games.
 
 ## Parallel 
-* [thrust](https://github.com/thrust/thrust) A parallel algorithms library which resembles the C++ Standard Template Library (STL). 
+* [thrust](https://github.com/thrust/thrust) A parallel algorithms library which resembles the C++ Standard Template Library (STL).
+
+## LockFree
+* [lockfree](https://github.com/DNedic/lockfree)  A collection of lock-free data structures written in standard C++11  
 
 ## RPC
 * [MagicOnion](https://github.com/Cysharp/MagicOnion) Unified Realtime/API framework for .NET platform and Unity.
