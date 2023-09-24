@@ -133,6 +133,7 @@
 * [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
 * [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.
+* [hello-algo](https://github.com/krahets/hello-algo) 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 
 
 ## Encryption
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm http://www.xxhash.com/
