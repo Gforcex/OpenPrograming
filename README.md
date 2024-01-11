@@ -120,6 +120,7 @@
 ## DataStruct
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  A fast, memory efficient hash map for C++
 * [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm https://www.xxhash.com/
+* [ExcaliburHash](https://github.com/SergeyMakeev/ExcaliburHash) Excalibur Hash is a high-speed hash map and hash set, ideal for performance-critical uses like video games  
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
 * [Advanced-Algorithms](https://github.com/justcoding121/Advanced-Algorithms) 100+ algorithms & data structures generically implemented in C#.
 * [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap)  A family of header-only, very fast and memory-friendly hashmap and btree containers.  
