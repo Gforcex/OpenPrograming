@@ -8,6 +8,10 @@
 * [AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
 * [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) Chinese Translation for Machine Learning Infographics
 * [60_Days_RL_Challenge](https://github.com/MLEveryday/60_Days_RL_Challenge) 强化学习60天
+* [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) 60 Implementations/tutorials of deep learning papers with side-by-side notes
+* [cnn-explainer](https://github.com/poloclub/cnn-explainer) Learning Convolutional Neural Networks with Interactive Visualization.
+* [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) A resource repository for 3D machine learning
+* [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区
 
 ## Awesome
 * [awesome](https://github.com/sindresorhus/awesome) Curated list of awesome lists
