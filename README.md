@@ -140,16 +140,15 @@
 * [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
 * [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.
-* [hello-algo](https://github.com/krahets/hello-algo) 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 
-
-## Encryption
-* [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm http://www.xxhash.com/
-
+* [hello-algo](https://github.com/krahets/hello-algo) 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+  
 ## Random
 * [pcg](https://github.com/imneme/pcg-cpp) random number generators, which are fast, statistically excellent, and offer a number of useful features.
 * [TinyMT](https://github.com/MersenneTwister-Lab/TinyMT) Tiny Mersenne Twister(TinyMT). Pseudo random number generators whose periods are 2127-1.
-
+* [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm http://www.xxhash.com/
+  
 ## Debugger
+* [raddebugger](https://github.com/EpicGamesExt/raddebugger) A native, user-mode, multi-process, graphical debugger.
 * [x64dbg](https://github.com/x64dbg/x64dbg) An open-source x64/x32 debugger for windows. http://x64dbg.com
 * [dnSpy](https://github.com/0xd4d/dnSpy) .NET debugger and assembly editor  
 
