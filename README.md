@@ -61,6 +61,7 @@
 * [StringFormatter](https://github.com/MikePopoloski/StringFormatter) Zero-allocation string formatting for .NET.
 * [fmt](https://github.com/fmtlib/fmt) A modern formatting library http://fmtlib.net
 * [ZString](https://github.com/Cysharp/ZString) Zero Allocation StringBuilder for .NET Core and Unity.
+* [StringZilla](https://github.com/ashvardanian/StringZilla) StringZilla is the GodZilla of string libraries, using SIMD and SWAR to accelerate string operations on modern CPUs and GPUs.
 
 ## Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers)  Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
