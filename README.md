@@ -30,6 +30,7 @@
 
 ## SIMD
 * [libsimdpp](https://github.com/p12tic/libsimdpp)  Portable header-only zero-overhead C++ low level SIMD library
+* [sse2neon](https://github.com/DLTcollab/sse2neon) A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation 
 
 ## Log
 * [spdlog](https://github.com/gabime/spdlog) Very fast, header only, C++ logging library. 
