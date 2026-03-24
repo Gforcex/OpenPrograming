@@ -74,6 +74,7 @@
 * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
 
 ## Compression 
+* [zxc](https://github.com/hellobertrand/zxc) High-performance asymmetric lossless compression. 40%+ faster decompression than LZ4 on ARM64 with better compression ratios. Optimized for Game Assets, Firmware & App Bundles.
 * [openzl](https://github.com/facebook/openzl) A novel data compression framework
 * [lz4](https://github.com/lz4/lz4) Extremely Fast Compression algorithm http://www.lz4.org
 * [Zstandard](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm 
